@@ -1,0 +1,13 @@
+E:\Project\C#\factorials_recusive\factorials_recusive\bin\Debug\netcoreapp3.1\factorials_recusive.exe
+E:\Project\C#\factorials_recusive\factorials_recusive\bin\Debug\netcoreapp3.1\factorials_recusive.deps.json
+E:\Project\C#\factorials_recusive\factorials_recusive\bin\Debug\netcoreapp3.1\factorials_recusive.runtimeconfig.json
+E:\Project\C#\factorials_recusive\factorials_recusive\bin\Debug\netcoreapp3.1\factorials_recusive.runtimeconfig.dev.json
+E:\Project\C#\factorials_recusive\factorials_recusive\bin\Debug\netcoreapp3.1\factorials_recusive.dll
+E:\Project\C#\factorials_recusive\factorials_recusive\bin\Debug\netcoreapp3.1\factorials_recusive.pdb
+E:\Project\C#\factorials_recusive\factorials_recusive\obj\Debug\netcoreapp3.1\factorials_recusive.csproj.AssemblyReference.cache
+E:\Project\C#\factorials_recusive\factorials_recusive\obj\Debug\netcoreapp3.1\factorials_recusive.AssemblyInfoInputs.cache
+E:\Project\C#\factorials_recusive\factorials_recusive\obj\Debug\netcoreapp3.1\factorials_recusive.AssemblyInfo.cs
+E:\Project\C#\factorials_recusive\factorials_recusive\obj\Debug\netcoreapp3.1\factorials_recusive.csproj.CoreCompileInputs.cache
+E:\Project\C#\factorials_recusive\factorials_recusive\obj\Debug\netcoreapp3.1\factorials_recusive.dll
+E:\Project\C#\factorials_recusive\factorials_recusive\obj\Debug\netcoreapp3.1\factorials_recusive.pdb
+E:\Project\C#\factorials_recusive\factorials_recusive\obj\Debug\netcoreapp3.1\factorials_recusive.genruntimeconfig.cache

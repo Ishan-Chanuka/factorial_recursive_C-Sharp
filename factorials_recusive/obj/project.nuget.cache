@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BATffOvPT9pavXVmygBRxWdm7cKNgR/dPmeqJDFSHwHXYTLDhRCnzkdFwN0cy3AhnydFpmbcwBxqaDwb+GxYA==",
+  "success": true,
+  "projectFilePath": "E:\\Project\\C#\\factorials_recusive\\factorials_recusive\\factorials_recusive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
